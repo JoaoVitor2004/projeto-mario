@@ -7,4 +7,4 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br>
-<a href="https://joaovitor2004.github.io/projeto-mario/">Link para visitar o site</a>
+<a style="text-decoration: none;" target="_blank" href="https://joaovitor2004.github.io/projeto-mario/">Link para visitar o site</a>
