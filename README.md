@@ -1,5 +1,5 @@
-<h1>Projeto Mario</h1>
-<p>Landing page do filme do Super Mario Bros</p>
+<h1 style="font-family: verdana;">Projeto Mario</h1>
+<p style="font-family: verdana;">Landing page do filme do Super Mario Bros</p>
 <img src="src/imagens/Capture de tela.PNG" alt="imagem do site">
 <h2>Tecnologias utilizadas</h2>
 <div>
