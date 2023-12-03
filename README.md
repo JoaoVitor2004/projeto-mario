@@ -3,12 +3,13 @@
 
 <img src="src/imagens/Capture de tela.PNG" alt="imagem do site">
 
-<h2>⛏ Ferramenta e Tecnologias utilizadas</h2>
+<h2>⛏ Ferramenta e tecnologias utilizadas</h2>
 
 - Visual studio code
 
     - HTML
-    - CSS 
+    - CSS
+    - JAVASCRIPT
  
  <br>
 🔗 Link para visitar o <a href="https://joaovitor2004.github.io/projeto-mario/">site</a>
