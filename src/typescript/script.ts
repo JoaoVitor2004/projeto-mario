@@ -1,6 +1,6 @@
 const botaoTrailer: HTMLButtonElement | null = document.querySelector(".botao-trailer");
 const botaoFecharModal: HTMLButtonElement | null = document.querySelector(".fechar-modal");
-const video: HTMLElement | null = document.getElementById("video");
+const video = document.getElementById("video") as HTMLVideoElement;
 const modal: HTMLElement | null = document.querySelector(".modal");
 const linkDoVideo = video?.src;
 
